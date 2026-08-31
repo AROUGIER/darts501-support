@@ -1,4 +1,4 @@
-# Politique de confidentialité — Dart 501
+# Politique de confidentialité — Darts501
 
 *Dernière mise à jour : 31 août 2026.*
 

@@ -1,4 +1,4 @@
-# Privacy Policy — Dart 501
+# Privacy Policy — Darts501
 
 *Last updated: 31 August 2026.*
 

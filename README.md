@@ -1,6 +1,6 @@
-# Dart 501 — support
+# Darts501 — support
 
-Page de support et politique de confidentialité de l'application **Dart 501**,
+Page de support et politique de confidentialité de l'application **Darts501**,
 un compteur de fléchettes pour iPhone et iPad.
 
 - **Politique de confidentialité** : [français](privacy-fr.md) · [English](privacy-en.md)
@@ -13,5 +13,5 @@ analysées sur place et aucune n'est conservée.
 
 ---
 
-*This repository hosts the support page and privacy policy for Dart 501, a darts
+*This repository hosts the support page and privacy policy for Darts501, a darts
 scorekeeping app for iPhone and iPad. Nothing leaves your device.*
