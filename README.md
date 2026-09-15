@@ -8,8 +8,7 @@ un compteur de fléchettes pour iPhone et iPad.
   [issue](../../issues/new), ou écrivez à adrien.rougier1@gmail.com.
 
 En une phrase : **rien ne quitte votre appareil**. Pas de compte, pas de serveur,
-pas de mesure d'audience, pas de publicité. Les images de la caméra sont
-analysées sur place et aucune n'est conservée.
+pas de mesure d'audience, pas de publicité.
 
 ---
 

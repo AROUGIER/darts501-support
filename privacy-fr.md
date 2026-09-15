@@ -1,6 +1,6 @@
 # Politique de confidentialité — Darts501
 
-*Dernière mise à jour : 31 août 2026.*
+*Dernière mise à jour : 15 septembre 2026.*
 
 ## En une phrase
 
@@ -17,22 +17,19 @@ Tout est écrit dans une base de données locale, sur votre appareil :
 | Parties, manches, volées et fléchettes | Tenir le score, permettre l'annulation et la reprise |
 | Position des impacts sur la cible, quand elle est connue | Calculer les statistiques de précision et les cartes de densité |
 | Séances d'entraînement et leurs scores | Suivre votre progression |
-| Réglages de calibration de la caméra | Ne pas recalibrer à chaque partie |
 
 Ces données ne sont **jamais** transmises. Elles disparaissent avec
 l'application : désinstaller supprime tout.
 
 ## La caméra
 
-L'application demande l'accès à la caméra pour lire la position des fléchettes
-sur la cible. Ce que vous devez savoir :
+La version actuelle de l'application **n'utilise pas la caméra** et ne demande
+pas à y accéder. Les fléchettes se saisissent sur la cible dessinée à l'écran ou
+au pavé numérique.
 
-- l'analyse se fait **entièrement sur votre appareil**, hors ligne ;
-- **aucune image n'est enregistrée** — ni photo, ni vidéo, ni fragment. Seule la
-  position calculée d'un impact, quelques nombres, est conservée ;
-- rien n'est envoyé nulle part, et l'application fonctionne en mode avion ;
-- vous pouvez refuser l'accès : la saisie tactile et le pavé numérique restent
-  disponibles, et tous les jeux sont jouables sans caméra.
+Une détection automatique des fléchettes par la caméra est à l'étude. Si elle
+arrive dans une version future, cette page dira ce qu'elle fait **avant** sa
+mise à disposition.
 
 ## Les enfants
 
@@ -49,8 +46,8 @@ pas : personne d'autre que vous ne détient ces données. Concrètement —
   statistiques ;
 - **rectifier** : les scores se corrigent en cours de partie, les joueurs se
   renomment ;
-- **effacer** : supprimer un joueur efface ses parties ; désinstaller
-  l'application efface tout.
+- **effacer** : supprimer un profil retire le joueur sans toucher aux parties
+  déjà jouées, qui gardent son nom ; désinstaller l'application efface tout.
 
 ## Si cela change
 

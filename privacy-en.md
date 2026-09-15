@@ -1,6 +1,6 @@
 # Privacy Policy — Darts501
 
-*Last updated: 31 August 2026.*
+*Last updated: 15 September 2026.*
 
 ## In one sentence
 
@@ -17,22 +17,19 @@ Everything is written to a local database on your device:
 | Games, legs, turns and darts | To keep score, undo, and resume |
 | Impact positions on the board, when known | To compute accuracy statistics and heatmaps |
 | Practice sessions and their scores | To track your progress |
-| Camera calibration settings | So you don't recalibrate before every game |
 
 This data is **never** transmitted. It goes away with the app: uninstalling
 deletes everything.
 
 ## The camera
 
-The app asks for camera access to read where your darts land. What you should
-know:
+The current version of the app **does not use the camera** and never asks for
+access to it. Darts are entered on the board drawn on screen, or with the
+number pad.
 
-- the analysis happens **entirely on your device**, offline;
-- **no image is stored** — no photo, no video, no fragment. Only the computed
-  position of an impact, a handful of numbers, is kept;
-- nothing is sent anywhere, and the app works in airplane mode;
-- you may decline: tapping the board and the number pad remain available, and
-  every game is playable without the camera.
+Automatic dart detection with the camera is being explored. If it ships in a
+future version, this page will describe what it does **before** it becomes
+available.
 
 ## Children
 
@@ -47,8 +44,8 @@ practice —
 
 - **access**: everything is visible in the app, under History and Statistics;
 - **rectify**: scores can be corrected mid-game, players renamed;
-- **erase**: deleting a player deletes their games; uninstalling the app deletes
-  everything.
+- **erase**: deleting a profile removes the player without touching games
+  already played, which keep their name; uninstalling the app deletes everything.
 
 ## If this changes
 
