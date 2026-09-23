@@ -1,6 +1,6 @@
 # Politique de confidentialité — Darts501
 
-*Dernière mise à jour : 15 septembre 2026.*
+*Dernière mise à jour : 23 septembre 2026.*
 
 ## En une phrase
 
@@ -34,7 +34,8 @@ mise à disposition.
 ## Les enfants
 
 L'application ne collecte rien, donc rien qui concerne un enfant. Elle ne
-comporte ni achat intégré, ni publicité, ni lien vers l'extérieur.
+comporte ni achat intégré, ni publicité. Le seul lien qui en sorte est celui
+qui ouvre cette page, dans les réglages.
 
 ## Vos droits
 

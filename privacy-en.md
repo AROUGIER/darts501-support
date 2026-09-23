@@ -1,6 +1,6 @@
 # Privacy Policy — Darts501
 
-*Last updated: 15 September 2026.*
+*Last updated: 23 September 2026.*
 
 ## In one sentence
 
@@ -34,7 +34,8 @@ available.
 ## Children
 
 The app collects nothing, so nothing concerning a child. It contains no in-app
-purchases, no advertising, and no links out.
+purchases and no advertising. The only link out of it is the one that opens
+this page, from Settings.
 
 ## Your rights
 
